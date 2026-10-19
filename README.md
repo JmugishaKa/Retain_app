@@ -76,3 +76,5 @@ npm run dev                 # http://localhost:5173
 
 ## Security notes
 Passwords are hashed with bcrypt; every expense and budget query is scoped to the signed-in user; the admin role is read from the database on every request, so admin routes are enforced on the server as well as in the UI. New sign-ups are always regular users.
+
+Author: Eng.JOshua Mugisha
