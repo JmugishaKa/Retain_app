@@ -2,10 +2,10 @@
 
 Retain helps you record expenses, set a monthly budget and see where your money goes.
 
-**Live app:** `ADD-YOUR-DEPLOYED-FRONTEND-URL`  
-**API:** `ADD-YOUR-DEPLOYED-API-URL/api/health`
+**Live app:** `https://retain-app-1-qjbg.onrender.com`  
+**API:** `https://retain-expense-qbpq.onrender.com/api/health`
 
-Demo admin (seeded from the backend `.env`): `admin@retain.app` / `Admin123!` (change it in production).
+The admin account is seeded using the `ADMIN_EMAIL` and `ADMIN_PASSWORD` values in the backend `.env`.
 
 ## Technologies
 - **Frontend:** React 18, TypeScript, Vite, React Router, Redux Toolkit, plain CSS (responsive)
